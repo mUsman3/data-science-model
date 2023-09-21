@@ -1,4 +1,6 @@
 # Instruction
+## Pre-Req
+  Install Docker desktop on mac/windows
 ## Clone the project on local machine
 ## Install docker on local machine
 ## Create a user on hub.docker.com 
